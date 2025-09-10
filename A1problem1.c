@@ -1,5 +1,4 @@
 // A1problem1.c
-
 #include <stdio.h>
 #include <ctype.h>
 
